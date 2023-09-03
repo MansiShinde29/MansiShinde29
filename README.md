@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MansiShinde29
 - 👀 I’m interested in Python and UI/UX Design
-- 🌱 I’m currently learning Web devlopement and Sketchup
+- 🌱 I’m currently learning Web devlopement,Python and Sketchup
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by github
 
